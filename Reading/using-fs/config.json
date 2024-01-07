@@ -1,0 +1,14 @@
+{
+  "production": {
+    "user": "root",
+    "password": "topSecret",
+    "host": "localhost",
+    "database": "mysql"
+  },
+  "development": {
+    "user": "root",
+    "password": "secret",
+    "host": "localhost",
+    "database": "mysql"
+  }
+}
